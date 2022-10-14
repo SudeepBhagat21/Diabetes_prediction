@@ -1,0 +1,16 @@
+Cross Validation Output
+
+Cross Validation on SVM Model
+0.7693683409436833
+
+Cross Validation on K Nearest neighbourhood Model
+0.7430745814307458
+
+Cross Validation on Logestic Regression Model
+0.769406392694064
+
+Cross Validation on Decision Tree Model
+0.6881088280060883
+
+Cross Validation on Random Forest Model
+0.6880898021308981
